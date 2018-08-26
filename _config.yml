@@ -107,6 +107,8 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - psyphore/psyphore.github.io
+ - psyphore/node-apollo-server
+ - psyphore/react-apollo-client
  
 #Stackoverflow flair is optional
 stackoverflow:
