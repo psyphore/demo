@@ -48,36 +48,37 @@ roles:
   start: 2018
   end: ongoing
   employer: iPlatform
-  description: Fullstack developer at an insurance sector:
-              - backend: (C#, ASP.Net MVC 4, NHibernate, .Net Core 2, Topshelf Apps)
-              - testing: (XUnit, Moq)
-              - data: (MSSQL, TSQL, XML, JSON)
-              - devOps: (GIT with BitBucket, TeamCity, OctopusDeploy, IIS)
-              - docker: (RabbitMQ, Postgres)
-              - tech lead for 3rd party vendor integrations
-              - coaching dev team with tools, techniques and processes (mostly through Confluence and workshops)
-              - side projects: (ReactJS, GraphQL, Apollo, NodeJS, Neo4J [cypher], Google API, pm2, Node:alpine multi-stage docker builds)
+  description: Fullstack developer at an insurance sector
+               frontend (KnockoutJS, RAZOR3, JavaScript ES5),
+               backend (C#, ASP.Net MVC 4, NHibernate, .Net Core 2, Topshelf Apps),
+               testing (XUnit, Moq),
+               data (MSSQL, TSQL, XML, JSON),
+               devOps (GIT with BitBucket, TeamCity, OctopusDeploy, IIS),
+               docker (RabbitMQ, Postgres),
+               tech lead for 3rd party vendor integrations,
+               coaching dev team with tools, techniques and processes (mostly through Confluence and workshops),
+               side projects (ReactJS, GraphQL, Apollo, NodeJS, Neo4J [cypher], Google API, pm2, Node_alpine multi-stage docker builds).
 - title: Web Developer
   start: 2015
   end: 2017
   employer: Derivco
-  description:  Fullstack developer at a "Mixed bag" online entertainment sector:
-              - front end: (AngularJS, Angular 2, NodeJS, TypeScript, JavaScript ES6)
-              - backend: (C#, WebAPI, ASP.Net MVC 3, EF6-CodeFirst)
-              - testing: (NUnit, NSubstitute)
-              - data: (MSSQL, TSQL, JSON, XML)
-              - devOps: (Git with GitLab, TeamCity, OctopusDeploy, IIS)
-              - coaching dev with tools, techniques and processes (mostly through Confluence)
-              - side projects: (NodeJS, express, Angular 4, TypeScript, pm2, NGINX)
+  description: Fullstack developer at a "Mixed bag" online entertainment sector
+               frontend (AngularJS, Angular 2, NodeJS, TypeScript, JavaScript ES6),
+               backend (C#, WebAPI, ASP.Net MVC 3, EF6-CodeFirst),
+               testing (NUnit, NSubstitute),
+               data (MSSQL, TSQL, JSON, XML),
+               devOps (Git with GitLab, TeamCity, OctopusDeploy, IIS),
+               coaching dev with tools, techniques and processes (mostly through Confluence),
+               side projects (NodeJS, express, Angular 4, TypeScript, pm2, NGINX).
 - title: Junior Software Developer
   start: 2013
   end: 2015
   employer: Hollywoodbets.net Sportbook
-  description:  Fullstack developer at a sportbook and betting sector: 
-              - front end: (JQuery, KnockoutJS, AngularJS, JavaScript ES5)
-              - backend: (ASP.Net, ASMX, C#, NHibernate)
-              - data: (MSSQL, TSQL)
-              - devOps: (Git with Mercurial, IIS)
+  description: Fullstack developer at a sportbook and betting sector 
+               frontend (JQuery, KnockoutJS, AngularJS, JavaScript ES5),
+               backend (ASP.Net, ASMX, C#, NHibernate),
+               data (MSSQL, TSQL),
+               devOps (Git with Mercurial, IIS).
 - title: Support Developer
   start: 2009
   end: 2013
