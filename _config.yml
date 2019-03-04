@@ -7,6 +7,7 @@ name: Sipho Hlophe
 markdown: kramdown
 
 #User specific content
+summary: ```[Family, Tech, Code, Learn, Teach, Fun]```
 #Links that will appear in the navbar
 primarylinks:
  - title: GitHub
@@ -51,7 +52,7 @@ roles:
   start: 2018
   end: ongoing
   employer: iPlatform Global
-  description: Fullstack developer at an insurance sector
+  description: Fullstack developer at the insurance sector
                frontend (KnockoutJS, RAZOR3, JavaScript ES5),
                backend (C#, ASP.Net MVC 4, NHibernate, .Net Core 2, Topshelf Apps),
                testing (XUnit, Moq),
@@ -120,8 +121,6 @@ stackoverflow:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: 
-   <strong>Motto</strong>: [Family, Tech, Code, Learn, Teach, Fun] <br/>
-   <strong>General</strong>: I love creating Software Solutions and learning how to better current Solutions with latest tech.
+   <strong>General</strong>: I love creating software solutions and learning how to better current solutions with latest tech.
 
-currentlocation:
-   Midrand, ZA
+current_location: Midrand, ZA
