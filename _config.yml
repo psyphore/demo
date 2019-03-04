@@ -30,10 +30,15 @@ skills:
  - Cypher Query Language with Neo4J
  - Apollo (Server & Client)
  - NodeJS
+ - Socket.IO
  - JIRA
  - Confluence
- - Unit Testing (XUnit, NUnit, Moq, NSubstitute)
- - GIT (GitHub, Bitbucket, GitLab)
+ - Unit Testing 
+ - XUnit
+ - NUnit
+ - Moq
+ - NSubstitute
+ - GIT
  - XML
  - JSON
 
@@ -68,7 +73,7 @@ roles:
                devOps (Git with GitLab, TeamCity, OctopusDeploy, IIS),
                coaching dev with tools, techniques and processes (mostly through Confluence),
                side projects (NodeJS, express, Angular 4, TypeScript, pm2, NGINX).
-- title: Junior Software Developer
+- title: Web Developer
   start: 2013
   end: 2015
   employer: Hollywoodbets.net Sportbook
