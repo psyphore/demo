@@ -21,21 +21,19 @@ skills:
  - C#.Net
  - ASP.Net MVC
  - REST
- - SQL
+ - GraphQL
  - JavaScript
  - ReactJS
  - docker
- - GraphQL
+ - Python
+ - SQL
  - Cypher Query Language with Neo4J
- - Apollo
+ - Apollo (Server & Client)
  - NodeJS
- - Jira
+ - JIRA
  - Confluence
- - XUnit
- - NUnit
- - Moq
- - NSubstitute
- - GIT
+ - Unit Testing (XUnit, NUnit, Moq, NSubstitute)
+ - GIT (GitHub, Bitbucket, GitLab)
  - XML
  - JSON
 
@@ -47,7 +45,7 @@ roles:
 - title: Web Developer
   start: 2018
   end: ongoing
-  employer: iPlatform
+  employer: iPlatform Global
   description: Fullstack developer at an insurance sector
                frontend (KnockoutJS, RAZOR3, JavaScript ES5),
                backend (C#, ASP.Net MVC 4, NHibernate, .Net Core 2, Topshelf Apps),
