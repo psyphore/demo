@@ -7,7 +7,7 @@ name: Sipho Hlophe
 markdown: kramdown
 
 #User specific content
-summary: ```[Family, Tech, Code, Learn, Teach, Fun]```
+#summary: ```[Family, Tech, Code, Learn, Teach, Fun]```
 #Links that will appear in the navbar
 primarylinks:
  - title: GitHub
