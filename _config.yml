@@ -57,10 +57,10 @@ roles:
                testing (XUnit, Moq),
                data (MSSQL, TSQL, XML, JSON),
                devOps (GIT with BitBucket, TeamCity, OctopusDeploy, IIS),
-               docker (RabbitMQ, Postgres),
+               docker (RabbitMQ),
                tech lead for 3rd party vendor integrations,
                coaching dev team with tools, techniques and processes (mostly through Confluence and workshops),
-               side projects (ReactJS, GraphQL, Apollo, NodeJS, Neo4J [cypher], Google API, pm2, Node_alpine multi-stage docker builds).
+               side quests (Python, ReactJS, GraphQL, Apollo, NodeJS, Neo4J [cypher], Google API, pm2, Node_alpine multi-stage docker builds).
 - title: Web Developer
   start: 2015
   end: 2017
@@ -72,7 +72,7 @@ roles:
                data (MSSQL, TSQL, JSON, XML),
                devOps (Git with GitLab, TeamCity, OctopusDeploy, IIS),
                coaching dev with tools, techniques and processes (mostly through Confluence),
-               side projects (NodeJS, express, Angular 4, TypeScript, pm2, NGINX).
+               side quests (NodeJS, express, Angular 4, TypeScript, pm2, NGINX).
 - title: Web Developer
   start: 2013
   end: 2015
@@ -85,7 +85,7 @@ roles:
 - title: Support Developer
   start: 2009
   end: 2013
-  employer: Nedgroup Life Assurance
+  employer: Nedgroup Life
   description: Provide support to Business Information Server, Teleform and OnBase software, assist with system installation and queries, 
                Test system changes in all systems used within Nedgroup Life, 
                Produce data extracts and reports as required by the Business,
@@ -109,8 +109,8 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - psyphore/psyphore.github.io
- - psyphore/node-apollo-server
+ - psyphore/flask-phone-book
+ - psyphore/graphql-neo4j-api
  - psyphore/react-apollo-client
  
 #Stackoverflow flair is optional
@@ -120,4 +120,5 @@ stackoverflow:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
+   <strong>Motto</strong>: [Family, Tech, Code, Learn, Teach, Fun]
    <strong>General</strong>: I love creating Software Solutions and learning how to better current Solutions with latest tech.
