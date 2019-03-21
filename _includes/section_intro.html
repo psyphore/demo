@@ -4,8 +4,9 @@
 	</div>
 	<div class="content-rounded-panel">
 		<div id="introBlurb">
-			I am a Junior Engineer working at Derivco, giving me a good blend of enterprise and start-up experience. <br/><br/>
-			I enjoy creating great products with great user experiences and working in a dynamic environment with a focus on good development practices, automation and shipping small, frequent releases.
+			{% for line in site.introduction %}
+				<p> {{line}} </p>  
+			{% endfor %}
 		</div>
 		<br>
 	</div>
