@@ -409,3 +409,7 @@ td.loginRow {
 .github-box {
 	margin-top: 15px;
 }
+
+.skill-item {
+	border-radius: 20px;
+}

@@ -5,7 +5,7 @@ This is my github portfolio page.
 1. from clean install
 ```sh
 > gem install jekyll
-> jekyll s --watch --incremental
+> jekyll b && jekyll s
 ```
 1. further help docs can be found
 ```sh
