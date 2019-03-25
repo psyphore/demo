@@ -6,11 +6,11 @@ body {
 
 html, body {
 	height: 100%;
-	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	/* font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; */
 	font-size:16px;
 }
 table {
-	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	/* font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; */
 	font-size:16px;
 }
 
@@ -57,20 +57,16 @@ table {
 
 
 #header_container {
-	/**background-color:#1E3D5A;**/
 	background: #fff url('../images/txtDarkBground.png');
-	
 }
 
 #inner_div {
 	display:inline;
-	
 }
 
 #container {
 	margin:0 auto; 
 	min-width: 1000px;
-	/*max-width:1000px;*/
 	min-height: 100%;
 	margin-bottom: -30px;
 	position: relative;
@@ -94,7 +90,6 @@ table {
 	position: relative;	
 	margin:0 auto; 
 	min-width: 1000px;
-	/*max-width:1000px;*/
 	color:white;
 	font-size:small;
 	text-align:center;
@@ -102,7 +97,7 @@ table {
 }
 
 #footer_container{
-	background: #262626; /*url('../images/txtDarkBground.png');*/
+	background: #262626;
 }
 
 .clearfooter {
@@ -413,4 +408,8 @@ td.loginRow {
 
 .github-box {
 	margin-top: 15px;
+}
+
+.skill-item {
+	border-radius: 20px;
 }

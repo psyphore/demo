@@ -1,2 +1,17 @@
-# psyphore.github.io
-Welcome to by github potforlio page, I will try and keep this updated but my LinkedIn profile is kept uptodate
+# Psyphore.github.io
+This is my github portfolio page.
+
+## Usage
+1. from clean install
+```sh
+> gem install jekyll
+> jekyll b && jekyll s
+```
+1. further help docs can be found
+```sh
+> jekyll --help
+```
+
+## Learning resources
+1. [Jekyll Github repo](https://github.com/jekyll/jekyll)
+1. [Jekyll Team](https//teams.jekyllrb.com)

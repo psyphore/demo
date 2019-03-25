@@ -3,6 +3,7 @@ title: Sipho Hlophe
 twitter_username: psyphore
 name: Sipho Hlophe
 
+
 # Build settings
 markdown: kramdown
 
@@ -10,41 +11,51 @@ markdown: kramdown
 #summary: ```[Family, Tech, Code, Learn, Teach, Fun]```
 #Links that will appear in the navbar
 primarylinks:
+ - title: Email
+   url: mailto:psyphore@gmail.com
+   icon: fa fa-envelope fa-fw
  - title: GitHub
    url: https://github.com/psyphore
+   icon: fa fa-github fa-fw
  - title: StackOverflow
    url: http://stackoverflow.com/users/1598285/psyphore
+   icon: fa fa-stack-overflow fa-fw
  - title: LinkedIn
    url: https://www.linkedin.com/in/sipho-hlophe-8959ab34
+   icon: fa fa-linkedin fa-fw
+ - title: Twitter
+   url: https://twitter.com/psyphore
+   icon: fa fa-twitter fa-fw
 
 #Any buzzword skills you want to include
 skills:
- - C#.Net
- - ASP.Net MVC
- - REST
+ - C#.Net 7
+ - ASP.Net MVC 5
+ - .Net Core 2.2
  - GraphQL
- - JavaScript
- - ReactJS
- - docker
+ - REST
+ - MSSQL
+ - JavaScript ES5+
+ - Neo4J
+ - Cypher
  - Python
- - SQL
- - Cypher Query Language with Neo4J
+ - docker
  - Apollo (Server & Client)
- - NodeJS
- - Socket.IO
- - JIRA
- - Confluence
- - Unit Testing 
- - XUnit
- - NUnit
- - Moq
- - NSubstitute
+ - Graphene
+ - Unit Testing (NUnit, XUnit, Moq, NSubstitute)
  - GIT
  - XML
  - JSON
+ - NodeJS
+ - JIRA
+ - Confluence
+ - Socket.IO
+ - ReactJS
+ - Angular
+ - RAZOR3
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://psyphore.github.io
+# blogfeed: http://psyphore.github.io
  
 #Work experience is required
 roles:
@@ -110,17 +121,42 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - psyphore/flask-phone-book
- - psyphore/graphql-neo4j-api
+ - psyphore/psyphore.github.io
+ - psyphore/media-streaming-server
+ - psyphore/media-streaming-client
+ - psyphore/graphql-bei4j-api
  - psyphore/react-apollo-client
+ - psyphore/flask-phone-book
+ - psyphore/docker-composer
+ - psyphore/graphql-net_core-neo4j
  
+bitbucket:
+  - media-streaming-server
+  - media-streaming-client
+
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://stackoverflow.com/users/1598285/psyphore
    flairimageurl: http://stackoverflow.com/users/flair/1598285.png
 
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>General</strong>: I love creating software solutions and learning how to better current solutions with latest tech.
+introduction:
+- I am a Full Stack Developer currently providing my skills and services at iPlatform Global, in exchange, I'm learning every about the insurance industry.
+- Software development is my passion
+- I enjoy creating great products with great user experiences and working in a dynamic environment with a focus on good development practices, automation and shipping small, frequent releases.
+- Currently excited about the GRAND stack (GraphQL, ReactJS, Apollo, Neo4J Database) and everything GraphQL with Neo4J
 
-current_location: Midrand, ZA
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: 
+- I love creating Software Solutions and learning how to better current Solutions with latest tech.
+- I feel GraphQL is the future of APIs and a dream come true for system integrators and UI developers.
+- Feel free to contact me on the mentioned links.
+
+futureplans:
+  - description: To have mastered the GraphQL concepts in different languages
+    progress: 25
+    goal: GraphQL
+  - description: To have re-written my media steaming server and client in Python and React
+    progress: 0
+    goal: React Streaming Solution
+
+outro: Midrand, ZA

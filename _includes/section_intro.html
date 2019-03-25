@@ -4,9 +4,9 @@
 	</div>
 	<div class="content-rounded-panel">
 		<div id="introBlurb">
-			Software development is my passion <br/>
-			I like to play around with new frameworks and other trending stuff <br/>
-			Currently excited about the GRAND Stack (GraphQL, ReactJS, Apollo, Neo4J Database).
+			{% for line in site.introduction %}
+				<p> {{line}} </p>  
+			{% endfor %}
 		</div>
 		<br>
 	</div>

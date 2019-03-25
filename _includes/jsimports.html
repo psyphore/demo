@@ -1,8 +1,9 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" async="" src="./js/vendor/bootstrap.min.js"></script>
 <script type="text/javascript" async="" src="./js/jquery.githubRepoWidget.custom.js"></script>
 
 {% if site.blogfeed %}
-	<script  type="text/javascript">
+	<script  type="text/javascript" async="" >
 	(function() {
 		$.ajax({
 			url      : 'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=10&callback=?&q=' + encodeURIComponent("{{site.blogfeed}}"),
