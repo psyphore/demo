@@ -1,4 +1,4 @@
-$(document).ready(function(){
+jQuey(function($){
   
   let url = 'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=10&callback=?&q=' + encodeURIComponent("{{site.blogfeed}}")
 		$.ajax({
