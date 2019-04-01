@@ -72,6 +72,7 @@ roles:
                docker (RabbitMQ),
                tech lead for 3rd party vendor integrations,
                coaching dev team with tools, techniques and processes (mostly through Confluence and workshops),
+               release manager, orchestrating Sprint builds from Staging to Production,
                side quests (Python, ReactJS, GraphQL, Apollo, NodeJS, Neo4J [cypher], Google API, pm2, Node_alpine multi-stage docker builds).
 - title: Web Developer
   start: 2015
