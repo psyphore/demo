@@ -31,7 +31,7 @@ primarylinks:
 skills:
  - C#.Net 7
  - ASP.Net MVC 5
- - .Net Core 2.2
+ - .Net Core 3
  - GraphQL
  - REST
  - MSSQL
@@ -122,13 +122,11 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - psyphore/psyphore.github.io
  - psyphore/media-streaming-server
  - psyphore/media-streaming-client
- - psyphore/graphql-bei4j-api
- - psyphore/react-apollo-client
  - psyphore/flask-phone-book
  - psyphore/docker-composer
+ - psyphore/react-apollo-client
  - psyphore/graphql-net_core-neo4j
  
 bitbucket:
