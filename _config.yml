@@ -126,6 +126,7 @@ github:
  - psyphore/media-streaming-client
  - psyphore/flask-phone-book
  - psyphore/docker-composer
+ - psyphore/graphql-neo4j-api
  - psyphore/react-apollo-client
  - psyphore/graphql-net_core-neo4j
  
