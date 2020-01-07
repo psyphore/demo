@@ -38,7 +38,7 @@ skills:
  - JavaScript ES5+
  - Neo4J
  - Cypher
- - Python
+ - Python 3
  - docker
  - Apollo (Server & Client)
  - Graphene
@@ -49,19 +49,27 @@ skills:
  - NodeJS
  - JIRA
  - Confluence
+ - Assembla
  - Socket.IO
  - ReactJS
  - Angular
  - RAZOR3
+ - TypeScript
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 # blogfeed: http://psyphore.github.io
  
 #Work experience is required
 roles:
+
+- title: Web Developer
+  start: 2020
+  end: ongoing
+  employer: Better Life Group
+  description: Fullstack developer at the financial sector
 - title: Web Developer
   start: 2018
-  end: ongoing
+  end: 2020
   employer: iPlatform Global
   description: Fullstack developer at the insurance sector
                frontend (KnockoutJS, RAZOR3, JavaScript ES5),
