@@ -148,10 +148,11 @@ stackoverflow:
    flairimageurl: http://stackoverflow.com/users/flair/1598285.png
 
 introduction:
-- I am a Full Stack Developer currently providing my skills and services at iPlatform Global, in exchange, I'm learning about the insurance industry.
+- I am a Full Stack Developer currently providing my skills and services at Better Life Group, in exchange, I'm learning about the home finance industry.
 - Software development is my passion
 - I enjoy creating great products with great user experiences and working in a dynamic environment with a focus on good development practices, automation and shipping small, frequent releases.
 - Currently excited about the GRAND stack (GraphQL, ReactJS, Apollo, Neo4J Database) and everything GraphQL with Neo4J
+- I have been also experimenting with Python3x version of the GRAND stack
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: 
@@ -160,11 +161,14 @@ additionalinfo:
 - Feel free to contact me on the mentioned links.
 
 futureplans:
-  - description: To have mastered the GraphQL concepts in different languages
-    progress: 25
+  - description: To have mastered the GraphQL concepts in different languages (NodeJS, Python, C#)
+    progress: 70
     goal: GraphQL
   - description: To have re-written my media steaming server and client in Python and React
     progress: 0
     goal: React Streaming Solution
+  - description: Strapi (with GraphQL) and Angular solution to manage the QA Cycle in a dev team or department
+    progress: 0
+    goal: Quality Assurance Management Solution
 
 outro: Midrand, ZA
