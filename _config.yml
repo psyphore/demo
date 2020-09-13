@@ -7,6 +7,9 @@ sass:
 title: Sipho Hlophe
 twitter_username: psyphore
 name: Sipho Hlophe
+firstname: Sipho
+lastname: Hlophe
+avatar_url: "https://avatars1.githubusercontent.com/u/4490427?s=460&u=6a92767cafa01d4bf05b76a2c7cb30b2d450db19&v=4"
 
 #User specific content
 #summary: ```[Family, Tech, Code, Learn, Teach, Fun]```
@@ -143,9 +146,9 @@ bitbucket:
   - media-streaming-client
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/1598285/psyphore
-   flairimageurl: http://stackoverflow.com/users/flair/1598285.png
+# stackoverflow:
+#    profileurl: http://stackoverflow.com/users/1598285/psyphore
+#    flairimageurl: http://stackoverflow.com/users/flair/1598285.png
 
 introduction:
 - I am a Full Stack Developer currently providing my skills and services at Better Life Group, in exchange, I'm learning about the home finance industry.
@@ -171,4 +174,4 @@ futureplans:
     progress: 0
     goal: Quality Assurance Management Solution
 
-outro: Midrand, ZA
+outro: Midrand, Gauteng, ZA
