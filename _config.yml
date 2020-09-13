@@ -1,11 +1,12 @@
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+
 # Site settings
 title: Sipho Hlophe
 twitter_username: psyphore
 name: Sipho Hlophe
-
-
-# Build settings
-markdown: kramdown
 
 #User specific content
 #summary: ```[Family, Tech, Code, Learn, Teach, Fun]```
@@ -61,65 +62,64 @@ skills:
  
 #Work experience is required
 roles:
-
-- title: Web Developer
-  start: 2020
-  end: ongoing
-  employer: Better Life Group
-  description: Fullstack developer at the financial sector
-- title: Web Developer
-  start: 2018
-  end: 2020
-  employer: iPlatform Global
-  description: Fullstack developer at the insurance sector
-               frontend (KnockoutJS, RAZOR3, JavaScript ES5),
-               backend (C#, ASP.Net MVC 4, NHibernate, .Net Core 2, Topshelf Apps),
-               testing (XUnit, Moq),
-               data (MSSQL, TSQL, XML, JSON),
-               devOps (GIT with BitBucket, TeamCity, OctopusDeploy, IIS),
-               docker (RabbitMQ),
-               tech lead for 3rd party vendor integrations,
-               coaching dev team with tools, techniques and processes (mostly through Confluence and workshops),
-               release manager, orchestrating Sprint builds from Staging to Production,
-               side quests (Python, ReactJS, GraphQL, Apollo, NodeJS, Neo4J [cypher], Google API, pm2, Node_alpine multi-stage docker builds).
-- title: Web Developer
-  start: 2015
-  end: 2017
-  employer: Derivco
-  description: Fullstack developer at a "Mixed bag" online entertainment sector
-               frontend (AngularJS, Angular 2, NodeJS, TypeScript, JavaScript ES6),
-               backend (C#, WebAPI, ASP.Net MVC 3, EF6-CodeFirst),
-               testing (NUnit, NSubstitute),
-               data (MSSQL, TSQL, JSON, XML),
-               devOps (Git with GitLab, TeamCity, OctopusDeploy, IIS),
-               coaching dev with tools, techniques and processes (mostly through Confluence),
-               side quests (NodeJS, express, Angular 4, TypeScript, pm2, NGINX).
-- title: Web Developer
-  start: 2013
-  end: 2015
-  employer: Hollywoodbets.net Sportbook
-  description: Fullstack developer at a sportbook and betting sector 
-               frontend (JQuery, KnockoutJS, AngularJS, JavaScript ES5),
-               backend (ASP.Net, ASMX, C#, NHibernate),
-               data (MSSQL, TSQL),
-               devOps (Git with Mercurial, IIS).
-- title: Support Developer
-  start: 2009
-  end: 2013
-  employer: Nedgroup Life
-  description: Provide support to Business Information Server, Teleform and OnBase software, assist with system installation and queries, 
-               Test system changes in all systems used within Nedgroup Life, 
-               Produce data extracts and reports as required by the Business,
-               Develop and implement business rules in VB & C#.Net in systems,
-               Ensure that all systems are performing at top levels for smooth business operations,
-               Perform Disaster Recovery procedures of systems during DR test sessions.
-- title: Desktop Support Engineer
-  start: 2009
-  end: 2009
-  employer: Nedbank
-  description: Help end-users in the organization with their computer related issues as soon as possible,
-               Install new workstations for the end-users in the organization,
-               Troubleshooting network issues for users.
+  - title: Web Developer
+    start: 2020
+    end: ongoing
+    employer: Better Life Group
+    description: Fullstack developer at the financial sector
+  - title: Web Developer
+    start: 2018
+    end: 2020
+    employer: iPlatform Global
+    description: Fullstack developer at the insurance sector
+                frontend (KnockoutJS, RAZOR3, JavaScript ES5),
+                backend (C#, ASP.Net MVC 4, NHibernate, .Net Core 2, Topshelf Apps),
+                testing (XUnit, Moq),
+                data (MSSQL, TSQL, XML, JSON),
+                devOps (GIT with BitBucket, TeamCity, OctopusDeploy, IIS),
+                docker (RabbitMQ),
+                tech lead for 3rd party vendor integrations,
+                coaching dev team with tools, techniques and processes (mostly through Confluence and workshops),
+                release manager, orchestrating Sprint builds from Staging to Production,
+                side quests (Python, ReactJS, GraphQL, Apollo, NodeJS, Neo4J [cypher], Google API, pm2, Node_alpine multi-stage docker builds).
+  - title: Web Developer
+    start: 2015
+    end: 2017
+    employer: Derivco
+    description: Fullstack developer at a "Mixed bag" online entertainment sector
+                frontend (AngularJS, Angular 2, NodeJS, TypeScript, JavaScript ES6),
+                backend (C#, WebAPI, ASP.Net MVC 3, EF6-CodeFirst),
+                testing (NUnit, NSubstitute),
+                data (MSSQL, TSQL, JSON, XML),
+                devOps (Git with GitLab, TeamCity, OctopusDeploy, IIS),
+                coaching dev with tools, techniques and processes (mostly through Confluence),
+                side quests (NodeJS, express, Angular 4, TypeScript, pm2, NGINX).
+  - title: Web Developer
+    start: 2013
+    end: 2015
+    employer: Hollywoodbets.net Sportbook
+    description: Fullstack developer at a sportbook and betting sector 
+                frontend (JQuery, KnockoutJS, AngularJS, JavaScript ES5),
+                backend (ASP.Net, ASMX, C#, NHibernate),
+                data (MSSQL, TSQL),
+                devOps (Git with Mercurial, IIS).
+  - title: Support Developer
+    start: 2009
+    end: 2013
+    employer: Nedgroup Life
+    description: Provide support to Business Information Server, Teleform and OnBase software, assist with system installation and queries, 
+                Test system changes in all systems used within Nedgroup Life, 
+                Produce data extracts and reports as required by the Business,
+                Develop and implement business rules in VB & C#.Net in systems,
+                Ensure that all systems are performing at top levels for smooth business operations,
+                Perform Disaster Recovery procedures of systems during DR test sessions.
+  - title: Desktop Support Engineer
+    start: 2009
+    end: 2009
+    employer: Nedbank
+    description: Help end-users in the organization with their computer related issues as soon as possible,
+                Install new workstations for the end-users in the organization,
+                Troubleshooting network issues for users.
 
 #Education is required
 education:
