@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  data: "https://raw.githubusercontent.com/psyphore/sipho-hlophe.github.io/master/config/content.json",
 };
 
 /*
